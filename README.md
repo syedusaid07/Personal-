@@ -4,7 +4,7 @@ Welcome to my repository! This section contains all the C programming tasks comp
 
 ---
 
-### 📂 Lab Programs List
+## 📂 Lab Programs List
 
 * **`scholarship.c`**: Determines scholarship eligibility based on exam marks ($\ge 80$) or family income ($< 50,000$).
 * **`library_fine.c`**: Calculates library fines dynamically based on late days using conditional logic.
