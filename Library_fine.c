@@ -2,7 +2,6 @@
 int main()
 {
     int late_days;
-
     printf("Enter Number of late days: ");
     scanf("%d", &late_days);
 
